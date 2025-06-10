@@ -25,9 +25,9 @@ He dividido los Jupyters en 3 para hacer el código más legible:
   Lenguaje: Python  
   Entorno: Jupyter Notebook
   Librerías: 
-      - Pandas para manipulación de datos
-      - NumPy para operaciones numéricas
-      - Matplotlib y Seaborn para visualización
-      - Scipy para análisis estadístico
+      * Pandas para manipulación de datos
+      * NumPy para operaciones numéricas
+      * Matplotlib y Seaborn para visualización
+      * Scipy para análisis estadístico
 
 
