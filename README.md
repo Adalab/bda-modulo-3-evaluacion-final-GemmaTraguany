@@ -2,7 +2,7 @@
 
 En este ejercicio técnico se analizan los datos de los clientes fieles de una aerolinea para entender su comportamiento.
 
-##ESTRUCTURA DEL EJERCICIO
+📚 ESTRUCTURA DEL EJERCICIO
 
 He dividido los Jupyters en 3 para hacer el código más legible:
 
@@ -15,7 +15,8 @@ En la variable he tenido en cuenta que el guardar la primera fila por cliente mo
 
 VisualizaciónBONUS: En este Jupyter he realizado los ejercicios de estadística.
 
-##HERRAMIENTAS
+
+🛠️ HERRAMIENTAS
 
 Lenguaje: Python
 Librerías: Pandas, Numpy, Matplotlib, Seaborn, Scipy
